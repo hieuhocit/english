@@ -170,24 +170,6 @@
 
 ---
 
-### 2. **Tương lai gần (Near Future)**:
-
-- **Cấu trúc**:
-  - **Khẳng định**: Chủ ngữ + am/is/are + going to + động từ nguyên thể
-  - **Phủ định**: Chủ ngữ + am/is/are + not + going to + động từ nguyên thể
-  - **Nghi vấn**: Am/Is/Are + chủ ngữ + going to + động từ nguyên thể?
-- **Cách dùng**:
-
-  - Diễn tả kế hoạch hoặc dự định đã có sẵn trong tương lai gần.
-  - Dự đoán điều gì đó sẽ xảy ra dựa trên dấu hiệu hoặc bằng chứng hiện tại.
-
-  **Ví dụ**:
-
-  - We **are going to travel** to Japan next month. (Chúng tôi dự định đi Nhật Bản vào tháng tới.)
-  - Look at those clouds! It **is going to rain**. (Nhìn những đám mây kia! Trời sắp mưa.)
-
----
-
 ### 3. **Tương lai tiếp diễn (Future Continuous)**:
 
 - **Cấu trúc**:
@@ -239,3 +221,61 @@
   - She **will have been studying** for three hours by the time you arrive. (Cô ấy sẽ đã học được 3 giờ trước khi bạn tới.)
 
 ---
+
+Tương lai gần không có dạng **tiếp diễn**, **hoàn thành**, hoặc **hoàn thành tiếp diễn** riêng biệt như các thì khác trong tiếng Anh. Tương lai gần sử dụng cấu trúc **"be going to"** để diễn tả một hành động sắp xảy ra hoặc đã được lên kế hoạch từ trước. Tuy nhiên, chúng ta có thể kết hợp cấu trúc **tương lai gần** với thì tiếp diễn và hoàn thành trong các trường hợp sau:
+
+
+### 1. **Tương lai gần (Near Future)**:
+
+- **Cấu trúc**:
+  - **Khẳng định**: Chủ ngữ + am/is/are + going to + động từ nguyên thể
+  - **Phủ định**: Chủ ngữ + am/is/are + not + going to + động từ nguyên thể
+  - **Nghi vấn**: Am/Is/Are + chủ ngữ + going to + động từ nguyên thể?
+- **Cách dùng**:
+
+  - Diễn tả kế hoạch hoặc dự định đã có sẵn trong tương lai gần.
+  - Dự đoán điều gì đó sẽ xảy ra dựa trên dấu hiệu hoặc bằng chứng hiện tại.
+
+  **Ví dụ**:
+
+  - We **are going to travel** to Japan next month. (Chúng tôi dự định đi Nhật Bản vào tháng tới.)
+  - Look at those clouds! It **is going to rain**. (Nhìn những đám mây kia! Trời sắp mưa.)
+
+---
+
+### 2. **Tương lai gần và tiếp diễn (Near Future Continuous)**:
+
+- **Cấu trúc**: 
+  - Chủ ngữ + am/is/are + going to be + V-ing
+- **Cách dùng**: 
+  - Dùng để diễn tả một hành động đang diễn ra tại một thời điểm cụ thể trong tương lai gần.
+  
+  **Ví dụ**:
+  - I **am going to be meeting** him tomorrow at 5 p.m. (Tôi sẽ đang gặp anh ấy vào lúc 5 giờ chiều mai.)
+  - They **are going to be playing** football this afternoon. (Họ sẽ đang chơi bóng chiều nay.)
+
+### 3. **Tương lai gần và hoàn thành (Near Future Perfect)**:
+
+- **Cấu trúc**: 
+  - Chủ ngữ + am/is/are + going to have + V3
+- **Cách dùng**: 
+  - Dùng để diễn tả một hành động sẽ hoàn thành trước một thời điểm trong tương lai gần.
+  
+  **Ví dụ**:
+  - By the time you arrive, I **am going to have finished** my homework. (Khi bạn đến, tôi sẽ hoàn thành xong bài tập.)
+  - She **is going to have left** by 10 a.m. (Cô ấy sẽ đi trước 10 giờ sáng.)
+
+### 4. **Tương lai gần và hoàn thành tiếp diễn (Near Future Perfect Continuous)**:
+
+- **Cấu trúc**: 
+  - Chủ ngữ + am/is/are + going to have been + V-ing
+- **Cách dùng**: 
+  - Dùng để diễn tả một hành động đã bắt đầu trong quá khứ và sẽ tiếp tục cho đến một thời điểm cụ thể trong tương lai gần.
+  
+  **Ví dụ**:
+  - By next month, we **are going to have been working** on this project for a year. (Đến tháng sau, chúng tôi sẽ làm dự án này được một năm.)
+  - She **is going to have been studying** for 3 hours by the time we arrive. (Cô ấy sẽ đã học được 3 giờ khi chúng ta tới.)
+
+### Tóm lại:
+
+- **Tương lai gần (be going to)** vẫn có thể được kết hợp với các dạng tiếp diễn, hoàn thành, và hoàn thành tiếp diễn. Tuy nhiên, không có thì **tương lai gần** riêng cho các dạng này, mà chỉ có sự kết hợp giữa cấu trúc tương lai gần với các thì đó để diễn tả hành động theo các ngữ cảnh cụ thể.
