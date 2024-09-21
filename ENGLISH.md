@@ -170,7 +170,7 @@
 
 ---
 
-### 3. **Tương lai tiếp diễn (Future Continuous)**:
+### 2. **Tương lai tiếp diễn (Future Continuous)**:
 
 - **Cấu trúc**:
   - **Khẳng định**: Chủ ngữ + will + be + động từ thêm “-ing”
@@ -188,7 +188,7 @@
 
 ---
 
-### 4. **Tương lai hoàn thành (Future Perfect)**:
+### 3. **Tương lai hoàn thành (Future Perfect)**:
 
 - **Cấu trúc**:
   - **Khẳng định**: Chủ ngữ + will + have + động từ phân từ 2 (V3)
@@ -205,7 +205,7 @@
 
 ---
 
-### 5. **Tương lai hoàn thành tiếp diễn (Future Perfect Continuous)**:
+### 4. **Tương lai hoàn thành tiếp diễn (Future Perfect Continuous)**:
 
 - **Cấu trúc**:
   - **Khẳng định**: Chủ ngữ + will + have + been + động từ thêm “-ing”
@@ -222,7 +222,7 @@
 
 ---
 
-Tương lai gần không có dạng **tiếp diễn**, **hoàn thành**, hoặc **hoàn thành tiếp diễn** riêng biệt như các thì khác trong tiếng Anh. Tương lai gần sử dụng cấu trúc **"be going to"** để diễn tả một hành động sắp xảy ra hoặc đã được lên kế hoạch từ trước. Tuy nhiên, chúng ta có thể kết hợp cấu trúc **tương lai gần** với thì tiếp diễn và hoàn thành trong các trường hợp sau:
+# Tương lai gần không có dạng **tiếp diễn**, **hoàn thành**, hoặc **hoàn thành tiếp diễn** riêng biệt như các thì khác trong tiếng Anh. Tương lai gần sử dụng cấu trúc **"be going to"** để diễn tả một hành động sắp xảy ra hoặc đã được lên kế hoạch từ trước. Tuy nhiên, chúng ta có thể kết hợp cấu trúc **tương lai gần** với thì tiếp diễn và hoàn thành trong các trường hợp sau:
 
 
 ### 1. **Tương lai gần (Near Future)**:
