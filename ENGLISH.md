@@ -150,7 +150,7 @@
 
 ---
 
-# Dưới đây là tổng quan về các thì tương lai trong tiếng Anh: **tương lai đơn**, **tương lai gần**, **tương lai tiếp diễn**, **tương lai hoàn thành**, và **tương lai hoàn thành tiếp diễn**:
+# Dưới đây là tổng quan về các thì tương lai trong tiếng Anh: **tương lai đơn**, **tương lai tiếp diễn**, **tương lai hoàn thành**, và **tương lai hoàn thành tiếp diễn**:
 
 ### 1. **Tương lai đơn (Future Simple)**:
 
